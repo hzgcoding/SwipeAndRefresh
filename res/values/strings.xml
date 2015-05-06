@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView滑动菜单及删除</string>
+    <string name="image">图片</string>
+    <string name="name">姓名</string>
+    <string name="sign">签名</string>
+    <string name="delete">删除</string>
+    <string name="info">信息</string>
+    <string name="swipe_to_refresh">下拉刷新</string>
+    <string name="input_hint">输入自己喜欢的英雄名称</string>
+</resources>
